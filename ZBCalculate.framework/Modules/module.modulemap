@@ -1,0 +1,6 @@
+framework module ZBCalculate {
+  umbrella header "ZBCalculate.h"
+
+  export *
+  module * { export * }
+}
